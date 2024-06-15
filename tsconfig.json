@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2023"],
+    "sourceMap": true,
+    "outDir": ".",
+    "experimentalDecorators": true
+  },
+
+  "files": ["./index.ts"],
+  "compileOnSave": true
+}

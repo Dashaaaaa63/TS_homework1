@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tsconfig/node20": "^20.1.4"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
